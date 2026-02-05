@@ -78,7 +78,7 @@ Deep learning project for detecting **pneumonia** from chest X-ray images using 
 ## 🛠️ Installation & Usage
 
 **Steps:**
-1. Open `Pneumonia_Final_Project_3Models.ipynb` in Google Colab or Jupyter  
+1. Open `Pneumonia-Project.ipynb` in Google Colab or Jupyter  
 2. Download datasets or mount Google Drive  
 3. Run cells sequentially to train and evaluate models  
 4. Models are saved automatically after training  
