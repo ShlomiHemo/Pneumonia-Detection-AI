@@ -46,9 +46,9 @@ Deep learning project for detecting **pneumonia** from chest X-ray images using 
 
 | Model | Test Accuracy | Avg F1-Score |
 |-------|--------------|-------------|
-| ResNet50 | 95% | 0.95 |
-| ViT | 94% | 0.94 |
-| Custom CNN | 92% | 0.92 |
+| Custom CNN | 95.28% | 0.952 |
+| ResNet50 | 98.84% | 0.989 |
+| ViT | 98.38% | 0.983 |
 
 **Insights:**  
 - **ResNet50** – Best overall balance of accuracy, precision, recall  
